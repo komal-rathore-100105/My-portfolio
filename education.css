@@ -1,0 +1,16 @@
+.my-educaton{
+    height: 700px;
+    color:white;
+    background-color: rgb(18, 13, 50);
+}
+.edu_details{ 
+    margin-top: 5rem;
+    margin-left: 28rem;
+    position: fixed;
+}
+table{
+   height: 400px;
+   width: 600px;
+   font-size:larger ;
+   border-color:#5DB9EE ;
+}

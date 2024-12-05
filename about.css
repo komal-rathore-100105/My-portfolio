@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.about-me{ 
+    height: 700px;
+    width:100%;
+    background:rgb(18, 13, 50);
+}
+.my-intro{ position: fixed;
+    color: aliceblue;
+    margin-left:5rem;
+    margin-top: 5rem;
+}
+.skills-intrest{
+    position: fixed;
+    margin-top:15rem;
+    margin-left: 5rem;
+    color: aliceblue;
+}
